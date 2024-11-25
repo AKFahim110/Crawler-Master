@@ -5,6 +5,8 @@
 **Crawler Master** is an exciting 2D adventure game built using Python's **Pygame** library. Explore a mysterious dungeon filled with puzzles, enemies, and challenges as you navigate through intricately designed levels. The game offers a dynamic and immersive experience with modular components and customizable features.
 
 ---
+![image](https://github.com/user-attachments/assets/c7fadba7-7287-42c7-b4d5-d1f5ab52d745)
+
 
 ## Features
 
